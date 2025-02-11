@@ -1,0 +1,404 @@
+{
+    "preguntas": [
+        {
+            "pregunta": "¿Cómo se declara una variable mutable en Kotlin?",
+            "respuestas": [
+                "var",
+                "let",
+                "const",
+                "val"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Qué función tiene 'data class' en Kotlin?",
+            "respuestas": [
+                "Crear servicios",
+                "Heredar de una clase",
+                "Definir interfaces",
+                "Crear clases de datos"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cómo se declara una variable mutable en Kotlin?",
+            "respuestas": [
+                "let",
+                "var",
+                "val",
+                "const"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué función tiene 'data class' en Kotlin?",
+            "respuestas": [
+                "Definir interfaces",
+                "Heredar de una clase",
+                "Crear servicios",
+                "Crear clases de datos"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cómo se declara una variable mutable en Kotlin?",
+            "respuestas": [
+                "let",
+                "var",
+                "val",
+                "const"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué función tiene 'data class' en Kotlin?",
+            "respuestas": [
+                "Definir interfaces",
+                "Crear clases de datos",
+                "Crear servicios",
+                "Heredar de una clase"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cómo se declara una variable mutable en Kotlin?",
+            "respuestas": [
+                "val",
+                "let",
+                "const",
+                "var"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Qué función tiene 'data class' en Kotlin?",
+            "respuestas": [
+                "Crear clases de datos",
+                "Definir interfaces",
+                "Crear servicios",
+                "Heredar de una clase"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cómo se declara una variable mutable en Kotlin?",
+            "respuestas": [
+                "val",
+                "var",
+                "let",
+                "const"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué función tiene 'data class' en Kotlin?",
+            "respuestas": [
+                "Heredar de una clase",
+                "Definir interfaces",
+                "Crear servicios",
+                "Crear clases de datos"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cómo se declara una variable mutable en Kotlin?",
+            "respuestas": [
+                "const",
+                "var",
+                "val",
+                "let"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué función tiene 'data class' en Kotlin?",
+            "respuestas": [
+                "Crear servicios",
+                "Heredar de una clase",
+                "Crear clases de datos",
+                "Definir interfaces"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cómo se declara una variable mutable en Kotlin?",
+            "respuestas": [
+                "let",
+                "val",
+                "var",
+                "const"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué función tiene 'data class' en Kotlin?",
+            "respuestas": [
+                "Crear servicios",
+                "Heredar de una clase",
+                "Crear clases de datos",
+                "Definir interfaces"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cómo se declara una variable mutable en Kotlin?",
+            "respuestas": [
+                "let",
+                "const",
+                "var",
+                "val"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué función tiene 'data class' en Kotlin?",
+            "respuestas": [
+                "Definir interfaces",
+                "Crear clases de datos",
+                "Crear servicios",
+                "Heredar de una clase"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cómo se declara una variable mutable en Kotlin?",
+            "respuestas": [
+                "val",
+                "let",
+                "const",
+                "var"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Qué función tiene 'data class' en Kotlin?",
+            "respuestas": [
+                "Crear clases de datos",
+                "Heredar de una clase",
+                "Crear servicios",
+                "Definir interfaces"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cómo se declara una variable mutable en Kotlin?",
+            "respuestas": [
+                "let",
+                "const",
+                "val",
+                "var"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Qué función tiene 'data class' en Kotlin?",
+            "respuestas": [
+                "Definir interfaces",
+                "Crear servicios",
+                "Crear clases de datos",
+                "Heredar de una clase"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cómo se declara una variable mutable en Kotlin?",
+            "respuestas": [
+                "val",
+                "let",
+                "const",
+                "var"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Qué función tiene 'data class' en Kotlin?",
+            "respuestas": [
+                "Crear servicios",
+                "Heredar de una clase",
+                "Definir interfaces",
+                "Crear clases de datos"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cómo se declara una variable mutable en Kotlin?",
+            "respuestas": [
+                "let",
+                "val",
+                "var",
+                "const"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué función tiene 'data class' en Kotlin?",
+            "respuestas": [
+                "Crear clases de datos",
+                "Definir interfaces",
+                "Crear servicios",
+                "Heredar de una clase"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cómo se declara una variable mutable en Kotlin?",
+            "respuestas": [
+                "const",
+                "let",
+                "var",
+                "val"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué función tiene 'data class' en Kotlin?",
+            "respuestas": [
+                "Crear servicios",
+                "Heredar de una clase",
+                "Definir interfaces",
+                "Crear clases de datos"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cómo se declara una variable mutable en Kotlin?",
+            "respuestas": [
+                "let",
+                "const",
+                "val",
+                "var"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Qué función tiene 'data class' en Kotlin?",
+            "respuestas": [
+                "Crear servicios",
+                "Crear clases de datos",
+                "Heredar de una clase",
+                "Definir interfaces"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cómo se declara una variable mutable en Kotlin?",
+            "respuestas": [
+                "val",
+                "let",
+                "const",
+                "var"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Qué función tiene 'data class' en Kotlin?",
+            "respuestas": [
+                "Definir interfaces",
+                "Heredar de una clase",
+                "Crear servicios",
+                "Crear clases de datos"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cómo se declara una variable mutable en Kotlin?",
+            "respuestas": [
+                "var",
+                "const",
+                "val",
+                "let"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Qué función tiene 'data class' en Kotlin?",
+            "respuestas": [
+                "Heredar de una clase",
+                "Definir interfaces",
+                "Crear clases de datos",
+                "Crear servicios"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cómo se declara una variable mutable en Kotlin?",
+            "respuestas": [
+                "val",
+                "let",
+                "var",
+                "const"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué función tiene 'data class' en Kotlin?",
+            "respuestas": [
+                "Definir interfaces",
+                "Crear clases de datos",
+                "Crear servicios",
+                "Heredar de una clase"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cómo se declara una variable mutable en Kotlin?",
+            "respuestas": [
+                "var",
+                "const",
+                "let",
+                "val"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Qué función tiene 'data class' en Kotlin?",
+            "respuestas": [
+                "Crear clases de datos",
+                "Crear servicios",
+                "Definir interfaces",
+                "Heredar de una clase"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cómo se declara una variable mutable en Kotlin?",
+            "respuestas": [
+                "const",
+                "let",
+                "var",
+                "val"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué función tiene 'data class' en Kotlin?",
+            "respuestas": [
+                "Crear servicios",
+                "Definir interfaces",
+                "Heredar de una clase",
+                "Crear clases de datos"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cómo se declara una variable mutable en Kotlin?",
+            "respuestas": [
+                "var",
+                "const",
+                "let",
+                "val"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Qué función tiene 'data class' en Kotlin?",
+            "respuestas": [
+                "Crear servicios",
+                "Definir interfaces",
+                "Heredar de una clase",
+                "Crear clases de datos"
+            ],
+            "correcta": 3
+        }
+    ]
+}

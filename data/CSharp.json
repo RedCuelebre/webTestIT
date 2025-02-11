@@ -1,0 +1,404 @@
+{
+    "preguntas": [
+        {
+            "pregunta": "¿Qué tipo de datos se usa para almacenar números enteros en C#?",
+            "respuestas": [
+                "string",
+                "int",
+                "double",
+                "float"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál es la función de 'using' en C#?",
+            "respuestas": [
+                "Manejar excepciones",
+                "Crear objetos",
+                "Importar namespaces",
+                "Definir variables"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué tipo de datos se usa para almacenar números enteros en C#?",
+            "respuestas": [
+                "string",
+                "double",
+                "int",
+                "float"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál es la función de 'using' en C#?",
+            "respuestas": [
+                "Crear objetos",
+                "Importar namespaces",
+                "Definir variables",
+                "Manejar excepciones"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué tipo de datos se usa para almacenar números enteros en C#?",
+            "respuestas": [
+                "string",
+                "int",
+                "float",
+                "double"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál es la función de 'using' en C#?",
+            "respuestas": [
+                "Definir variables",
+                "Importar namespaces",
+                "Manejar excepciones",
+                "Crear objetos"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué tipo de datos se usa para almacenar números enteros en C#?",
+            "respuestas": [
+                "string",
+                "int",
+                "double",
+                "float"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál es la función de 'using' en C#?",
+            "respuestas": [
+                "Definir variables",
+                "Manejar excepciones",
+                "Crear objetos",
+                "Importar namespaces"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Qué tipo de datos se usa para almacenar números enteros en C#?",
+            "respuestas": [
+                "float",
+                "string",
+                "int",
+                "double"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál es la función de 'using' en C#?",
+            "respuestas": [
+                "Manejar excepciones",
+                "Crear objetos",
+                "Importar namespaces",
+                "Definir variables"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué tipo de datos se usa para almacenar números enteros en C#?",
+            "respuestas": [
+                "float",
+                "string",
+                "double",
+                "int"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cuál es la función de 'using' en C#?",
+            "respuestas": [
+                "Definir variables",
+                "Manejar excepciones",
+                "Importar namespaces",
+                "Crear objetos"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué tipo de datos se usa para almacenar números enteros en C#?",
+            "respuestas": [
+                "double",
+                "string",
+                "float",
+                "int"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cuál es la función de 'using' en C#?",
+            "respuestas": [
+                "Definir variables",
+                "Manejar excepciones",
+                "Importar namespaces",
+                "Crear objetos"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué tipo de datos se usa para almacenar números enteros en C#?",
+            "respuestas": [
+                "int",
+                "double",
+                "string",
+                "float"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cuál es la función de 'using' en C#?",
+            "respuestas": [
+                "Definir variables",
+                "Importar namespaces",
+                "Manejar excepciones",
+                "Crear objetos"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué tipo de datos se usa para almacenar números enteros en C#?",
+            "respuestas": [
+                "int",
+                "float",
+                "string",
+                "double"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cuál es la función de 'using' en C#?",
+            "respuestas": [
+                "Crear objetos",
+                "Definir variables",
+                "Manejar excepciones",
+                "Importar namespaces"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Qué tipo de datos se usa para almacenar números enteros en C#?",
+            "respuestas": [
+                "int",
+                "string",
+                "float",
+                "double"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cuál es la función de 'using' en C#?",
+            "respuestas": [
+                "Importar namespaces",
+                "Definir variables",
+                "Manejar excepciones",
+                "Crear objetos"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Qué tipo de datos se usa para almacenar números enteros en C#?",
+            "respuestas": [
+                "int",
+                "string",
+                "double",
+                "float"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cuál es la función de 'using' en C#?",
+            "respuestas": [
+                "Definir variables",
+                "Crear objetos",
+                "Importar namespaces",
+                "Manejar excepciones"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué tipo de datos se usa para almacenar números enteros en C#?",
+            "respuestas": [
+                "float",
+                "double",
+                "string",
+                "int"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cuál es la función de 'using' en C#?",
+            "respuestas": [
+                "Manejar excepciones",
+                "Importar namespaces",
+                "Crear objetos",
+                "Definir variables"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué tipo de datos se usa para almacenar números enteros en C#?",
+            "respuestas": [
+                "double",
+                "string",
+                "float",
+                "int"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cuál es la función de 'using' en C#?",
+            "respuestas": [
+                "Importar namespaces",
+                "Manejar excepciones",
+                "Crear objetos",
+                "Definir variables"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Qué tipo de datos se usa para almacenar números enteros en C#?",
+            "respuestas": [
+                "int",
+                "double",
+                "string",
+                "float"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cuál es la función de 'using' en C#?",
+            "respuestas": [
+                "Importar namespaces",
+                "Definir variables",
+                "Crear objetos",
+                "Manejar excepciones"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Qué tipo de datos se usa para almacenar números enteros en C#?",
+            "respuestas": [
+                "double",
+                "float",
+                "string",
+                "int"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cuál es la función de 'using' en C#?",
+            "respuestas": [
+                "Crear objetos",
+                "Definir variables",
+                "Manejar excepciones",
+                "Importar namespaces"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Qué tipo de datos se usa para almacenar números enteros en C#?",
+            "respuestas": [
+                "int",
+                "double",
+                "float",
+                "string"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cuál es la función de 'using' en C#?",
+            "respuestas": [
+                "Importar namespaces",
+                "Manejar excepciones",
+                "Crear objetos",
+                "Definir variables"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Qué tipo de datos se usa para almacenar números enteros en C#?",
+            "respuestas": [
+                "int",
+                "double",
+                "float",
+                "string"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cuál es la función de 'using' en C#?",
+            "respuestas": [
+                "Manejar excepciones",
+                "Crear objetos",
+                "Importar namespaces",
+                "Definir variables"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué tipo de datos se usa para almacenar números enteros en C#?",
+            "respuestas": [
+                "int",
+                "float",
+                "double",
+                "string"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cuál es la función de 'using' en C#?",
+            "respuestas": [
+                "Definir variables",
+                "Manejar excepciones",
+                "Crear objetos",
+                "Importar namespaces"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Qué tipo de datos se usa para almacenar números enteros en C#?",
+            "respuestas": [
+                "double",
+                "float",
+                "string",
+                "int"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cuál es la función de 'using' en C#?",
+            "respuestas": [
+                "Manejar excepciones",
+                "Importar namespaces",
+                "Crear objetos",
+                "Definir variables"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué tipo de datos se usa para almacenar números enteros en C#?",
+            "respuestas": [
+                "string",
+                "double",
+                "int",
+                "float"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál es la función de 'using' en C#?",
+            "respuestas": [
+                "Crear objetos",
+                "Importar namespaces",
+                "Manejar excepciones",
+                "Definir variables"
+            ],
+            "correcta": 1
+        }
+    ]
+}

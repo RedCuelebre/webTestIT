@@ -1,0 +1,404 @@
+{
+    "preguntas": [
+        {
+            "pregunta": "¿Qué decorador en Angular se usa para definir un servicio?",
+            "respuestas": [
+                "@Injectable",
+                "@Service",
+                "@Directive",
+                "@Component"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cómo se pueden pasar datos de un componente padre a uno hijo en Angular?",
+            "respuestas": [
+                "Usando @Input()",
+                "Usando una API",
+                "Con variables locales",
+                "Usando @Output()"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Qué decorador en Angular se usa para definir un servicio?",
+            "respuestas": [
+                "@Directive",
+                "@Injectable",
+                "@Service",
+                "@Component"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cómo se pueden pasar datos de un componente padre a uno hijo en Angular?",
+            "respuestas": [
+                "Usando una API",
+                "Usando @Input()",
+                "Con variables locales",
+                "Usando @Output()"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué decorador en Angular se usa para definir un servicio?",
+            "respuestas": [
+                "@Service",
+                "@Injectable",
+                "@Component",
+                "@Directive"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cómo se pueden pasar datos de un componente padre a uno hijo en Angular?",
+            "respuestas": [
+                "Usando @Output()",
+                "Usando @Input()",
+                "Usando una API",
+                "Con variables locales"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué decorador en Angular se usa para definir un servicio?",
+            "respuestas": [
+                "@Injectable",
+                "@Component",
+                "@Directive",
+                "@Service"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cómo se pueden pasar datos de un componente padre a uno hijo en Angular?",
+            "respuestas": [
+                "Usando @Output()",
+                "Usando una API",
+                "Con variables locales",
+                "Usando @Input()"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Qué decorador en Angular se usa para definir un servicio?",
+            "respuestas": [
+                "@Injectable",
+                "@Directive",
+                "@Service",
+                "@Component"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cómo se pueden pasar datos de un componente padre a uno hijo en Angular?",
+            "respuestas": [
+                "Usando @Input()",
+                "Usando @Output()",
+                "Con variables locales",
+                "Usando una API"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Qué decorador en Angular se usa para definir un servicio?",
+            "respuestas": [
+                "@Injectable",
+                "@Directive",
+                "@Service",
+                "@Component"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cómo se pueden pasar datos de un componente padre a uno hijo en Angular?",
+            "respuestas": [
+                "Con variables locales",
+                "Usando @Output()",
+                "Usando @Input()",
+                "Usando una API"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué decorador en Angular se usa para definir un servicio?",
+            "respuestas": [
+                "@Injectable",
+                "@Directive",
+                "@Service",
+                "@Component"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cómo se pueden pasar datos de un componente padre a uno hijo en Angular?",
+            "respuestas": [
+                "Usando una API",
+                "Con variables locales",
+                "Usando @Input()",
+                "Usando @Output()"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué decorador en Angular se usa para definir un servicio?",
+            "respuestas": [
+                "@Component",
+                "@Injectable",
+                "@Service",
+                "@Directive"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cómo se pueden pasar datos de un componente padre a uno hijo en Angular?",
+            "respuestas": [
+                "Usando una API",
+                "Usando @Output()",
+                "Con variables locales",
+                "Usando @Input()"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Qué decorador en Angular se usa para definir un servicio?",
+            "respuestas": [
+                "@Component",
+                "@Service",
+                "@Directive",
+                "@Injectable"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cómo se pueden pasar datos de un componente padre a uno hijo en Angular?",
+            "respuestas": [
+                "Usando una API",
+                "Usando @Output()",
+                "Usando @Input()",
+                "Con variables locales"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué decorador en Angular se usa para definir un servicio?",
+            "respuestas": [
+                "@Directive",
+                "@Component",
+                "@Service",
+                "@Injectable"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cómo se pueden pasar datos de un componente padre a uno hijo en Angular?",
+            "respuestas": [
+                "Usando una API",
+                "Usando @Output()",
+                "Usando @Input()",
+                "Con variables locales"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué decorador en Angular se usa para definir un servicio?",
+            "respuestas": [
+                "@Service",
+                "@Component",
+                "@Directive",
+                "@Injectable"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cómo se pueden pasar datos de un componente padre a uno hijo en Angular?",
+            "respuestas": [
+                "Usando @Output()",
+                "Con variables locales",
+                "Usando @Input()",
+                "Usando una API"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué decorador en Angular se usa para definir un servicio?",
+            "respuestas": [
+                "@Service",
+                "@Directive",
+                "@Component",
+                "@Injectable"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cómo se pueden pasar datos de un componente padre a uno hijo en Angular?",
+            "respuestas": [
+                "Usando una API",
+                "Con variables locales",
+                "Usando @Output()",
+                "Usando @Input()"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Qué decorador en Angular se usa para definir un servicio?",
+            "respuestas": [
+                "@Directive",
+                "@Component",
+                "@Injectable",
+                "@Service"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cómo se pueden pasar datos de un componente padre a uno hijo en Angular?",
+            "respuestas": [
+                "Usando una API",
+                "Usando @Input()",
+                "Con variables locales",
+                "Usando @Output()"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué decorador en Angular se usa para definir un servicio?",
+            "respuestas": [
+                "@Directive",
+                "@Injectable",
+                "@Component",
+                "@Service"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cómo se pueden pasar datos de un componente padre a uno hijo en Angular?",
+            "respuestas": [
+                "Usando @Output()",
+                "Con variables locales",
+                "Usando @Input()",
+                "Usando una API"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué decorador en Angular se usa para definir un servicio?",
+            "respuestas": [
+                "@Directive",
+                "@Service",
+                "@Injectable",
+                "@Component"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cómo se pueden pasar datos de un componente padre a uno hijo en Angular?",
+            "respuestas": [
+                "Con variables locales",
+                "Usando @Output()",
+                "Usando una API",
+                "Usando @Input()"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Qué decorador en Angular se usa para definir un servicio?",
+            "respuestas": [
+                "@Directive",
+                "@Injectable",
+                "@Service",
+                "@Component"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cómo se pueden pasar datos de un componente padre a uno hijo en Angular?",
+            "respuestas": [
+                "Usando una API",
+                "Usando @Output()",
+                "Usando @Input()",
+                "Con variables locales"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué decorador en Angular se usa para definir un servicio?",
+            "respuestas": [
+                "@Injectable",
+                "@Directive",
+                "@Service",
+                "@Component"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cómo se pueden pasar datos de un componente padre a uno hijo en Angular?",
+            "respuestas": [
+                "Usando @Output()",
+                "Usando @Input()",
+                "Usando una API",
+                "Con variables locales"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué decorador en Angular se usa para definir un servicio?",
+            "respuestas": [
+                "@Component",
+                "@Service",
+                "@Directive",
+                "@Injectable"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cómo se pueden pasar datos de un componente padre a uno hijo en Angular?",
+            "respuestas": [
+                "Usando @Input()",
+                "Usando una API",
+                "Con variables locales",
+                "Usando @Output()"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Qué decorador en Angular se usa para definir un servicio?",
+            "respuestas": [
+                "@Directive",
+                "@Service",
+                "@Injectable",
+                "@Component"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cómo se pueden pasar datos de un componente padre a uno hijo en Angular?",
+            "respuestas": [
+                "Usando @Output()",
+                "Con variables locales",
+                "Usando una API",
+                "Usando @Input()"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Qué decorador en Angular se usa para definir un servicio?",
+            "respuestas": [
+                "@Component",
+                "@Service",
+                "@Directive",
+                "@Injectable"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cómo se pueden pasar datos de un componente padre a uno hijo en Angular?",
+            "respuestas": [
+                "Usando @Output()",
+                "Usando una API",
+                "Usando @Input()",
+                "Con variables locales"
+            ],
+            "correcta": 2
+        }
+    ]
+}

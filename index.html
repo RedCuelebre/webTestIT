@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cuestionario de JavaScript</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <script src="/js/scripts.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <!-- Input para el número de preguntas -->
+  <div id="start-section" class="card">
+    <h3>Seleccione el número de preguntas</h3>
+    <input type="number" id="num-preguntas" min="10" max="40" placeholder="Número de preguntas (10-40)" />
+    <h3></h3>
+    <input type="checkbox" name="" id="">
+    <button class="button" id="start-btn" onclick="startQuiz()">Iniciar Cuestionario</button>
+  </div>
+
+  <!-- Sección de preguntas -->
+  <div id="questions-section" class="hidden">
+    <div id="question-card" class="card">
+      <h3 id="question-text"></h3>
+      <p class="question-number">Pregunta <span id="current-question-number">1</span> de <span id="total-questions"></span></p>
+      <ul id="answers-list" class="answers"></ul>
+    </div>
+    <button class="button" id="next-btn" onclick="nextQuestion()">Siguiente Pregunta</button>
+  </div>
+
+  <!-- Resultados -->
+  <div id="results-section" class="hidden results">
+    <h3>Resultados</h3>
+    <p id="correct-answers">Preguntas acertadas: 0</p>
+    <p id="incorrect-answers">Preguntas falladas: 0</p>
+    <p id="score">Puntuación: 0%</p>
+    <button class="button" id="restart-btn" onclick="restartQuiz()">Volver a empezar</button>
+  </div>
+</div>
+
+</body>
+</html>

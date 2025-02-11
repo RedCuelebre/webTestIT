@@ -1,0 +1,329 @@
+{
+    "preguntas": [
+      {
+      "pregunta": "¿Qué tipo de dato es null en JavaScript?",
+      "respuestas": ["Objeto", "Número", "Cadena", "Booleano"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes es una estructura de control de flujo en JavaScript?",
+      "respuestas": ["for", "while", "if", "Todas las anteriores"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Cuál es el resultado de 2 + '2' en JavaScript?",
+      "respuestas": ["4", "22", "Error", "NaN"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia entre '==' y '===' en JavaScript?",
+      "respuestas": [
+        "No hay diferencia, ambos son iguales",
+        "==' compara solo el valor, '===' compara valor y tipo",
+        "==' compara tipo y valor, '===' compara solo el valor",
+        "'==' no se puede usar en JavaScript"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué método se utiliza para agregar un elemento al final de un array en JavaScript?",
+      "respuestas": ["push()", "pop()", "shift()", "unshift()"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cómo puedes declarar una variable en JavaScript?",
+      "respuestas": ["let", "const", "var", "Todas las anteriores"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Qué es una función anónima en JavaScript?",
+      "respuestas": [
+        "Una función sin nombre",
+        "Una función con nombre",
+        "Una función que retorna un valor",
+        "Una función que no toma parámetros"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué tipo de dato es NaN en JavaScript?",
+      "respuestas": ["Número", "Cadena", "Booleano", "Objeto"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué significa DOM en el contexto de JavaScript?",
+      "respuestas": [
+        "Documento Objetos Modelo",
+        "Document Object Model",
+        "Database Operations Model",
+        "Direct Object Mapping"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué hace el método 'map()' en JavaScript?",
+      "respuestas": [
+        "Recorre un array y lo modifica",
+        "Filtra los elementos de un array",
+        "Crea un nuevo array con los resultados de la ejecución de una función sobre cada elemento",
+        "Añade elementos al final de un array"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué operador se usa para obtener el resto de una división en JavaScript?",
+      "respuestas": ["%", "/", "*", "+"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cómo puedes evitar que un número se convierta en una cadena al concatenarlo con otro?",
+      "respuestas": ["Usar comillas", "Usar el operador +", "Usar el operador ==", "Usar parseInt() o parseFloat()"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Qué método se utiliza para eliminar el último elemento de un array en JavaScript?",
+      "respuestas": ["pop()", "shift()", "push()", "unshift()"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes funciones es sincrónica?",
+      "respuestas": ["setTimeout()", "Promise()", "fetch()", "alert()"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Qué significa 'hoisting' en JavaScript?",
+      "respuestas": [
+        "El proceso de elevar las funciones al principio del código",
+        "El proceso de elevar las variables al principio del código",
+        "El proceso de convertir código JavaScript a código compilado",
+        "El proceso de optimización de funciones"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es una promesa (Promise) en JavaScript?",
+      "respuestas": [
+        "Un objeto que representa la finalización o el fracaso de una operación asíncrona",
+        "Un tipo de bucle",
+        "Una variable",
+        "Un objeto que almacena datos"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cómo accedes al primer elemento de un array en JavaScript?",
+      "respuestas": ["array[0]", "array[1]", "array.first()", "array.firstElement()"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué operador se usa para comparar valores y tipo de datos en JavaScript?",
+      "respuestas": ["==", "=", "===", "!=="],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es la forma correcta de escribir una función en JavaScript?",
+      "respuestas": [
+        "function miFuncion() { }",
+        "miFuncion() => { }",
+        "func miFuncion() { }",
+        "func() miFuncion() { }"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué hace el método 'filter()' en JavaScript?",
+      "respuestas": [
+        "Devuelve un array con los elementos modificados",
+        "Devuelve un array con los elementos que cumplen una condición",
+        "Devuelve el primer elemento que cumple la condición",
+        "Ordena el array"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué significa 'this' en JavaScript?",
+      "respuestas": [
+        "La variable global",
+        "El objeto que invoca el método",
+        "La función actual",
+        "La variable local"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cómo se define un objeto en JavaScript?",
+      "respuestas": [
+        "var objeto = []",
+        "var objeto = () => {}",
+        "var objeto = {}",
+        "var objeto = new Object()"
+      ],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué hace el operador '&&' en JavaScript?",
+      "respuestas": ["AND lógico", "OR lógico", "Negación lógica", "Asignación"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué es un closure en JavaScript?",
+      "respuestas": [
+        "Una función que se ejecuta una sola vez",
+        "Una función que recuerda el entorno de su creación",
+        "Un tipo de bucle",
+        "Una variable global"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cómo puedes evitar el comportamiento predeterminado de un formulario en JavaScript?",
+      "respuestas": [
+        "Usando el método 'stopPropagation()'",
+        "Usando el método 'preventDefault()'",
+        "Usando el método 'submit()'",
+        "Usando el método 'return false'"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué es el 'event bubbling' en JavaScript?",
+      "respuestas": [
+        "Cuando un evento se propaga de abajo hacia arriba en el DOM",
+        "Cuando un evento se propaga de arriba hacia abajo en el DOM",
+        "Cuando un evento se detiene antes de que llegue al DOM",
+        "Cuando un evento no se propaga"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cómo accedes al valor de un input en JavaScript?",
+      "respuestas": [
+        "input.value",
+        "input.innerHTML",
+        "input.textContent",
+        "input.getValue()"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué método se usa para convertir una cadena a número en JavaScript?",
+      "respuestas": ["parseInt()", "toString()", "String()", "Number()"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál es la sintaxis correcta para crear una clase en JavaScript?",
+      "respuestas": [
+        "class MiClase { }",
+        "function MiClase { }",
+        "class MiClase() { }",
+        "class: MiClase { }"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué hace el método 'reduce()' en JavaScript?",
+      "respuestas": [
+        "Crea un nuevo array con los elementos modificados",
+        "Acumula un valor basado en la ejecución de una función sobre los elementos del array",
+        "Devuelve el primer elemento que cumple una condición",
+        "Filtra los elementos de un array"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cómo puedes agregar una propiedad a un objeto después de que ha sido creado?",
+      "respuestas": [
+        "objeto.propiedad = valor",
+        "objeto.add('propiedad', valor)",
+        "objeto.set('propiedad', valor)",
+        "objeto.addProperty('propiedad', valor)"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué hace el método 'join()' en JavaScript?",
+      "respuestas": [
+        "Une todos los elementos de un array en una cadena",
+        "Devuelve una copia del array",
+        "Convierte una cadena en un array",
+        "Elimina los elementos de un array"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué método se utiliza para agregar un elemento al inicio de un array?",
+      "respuestas": ["unshift()", "push()", "shift()", "pop()"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué devuelve el método 'slice()' en JavaScript?",
+      "respuestas": [
+        "Una nueva cadena con la parte extraída",
+        "Una copia del array",
+        "Un array con los elementos que cumple la condición",
+        "Un array con los elementos eliminados"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cómo defines una variable constante en JavaScript?",
+      "respuestas": ["const miVariable", "let miVariable", "var miVariable", "final miVariable"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué método se usa para encontrar el índice de un elemento en un array?",
+      "respuestas": ["indexOf()", "findIndex()", "search()", "getIndex()"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cómo conviertes un array en un objeto en JavaScript?",
+      "respuestas": [
+        "Array.toObject()",
+        "Object.fromEntries()",
+        "Array.from()",
+        "Array.toObject()"
+      ],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué método se utiliza para recorrer un array en JavaScript?",
+      "respuestas": [
+        "forEach()",
+        "map()",
+        "reduce()",
+        "all()"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué hace el operador '||' en JavaScript?",
+      "respuestas": [
+        "OR lógico",
+        "AND lógico",
+        "Negación",
+        "Asignación"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cómo puedes convertir una cadena en mayúsculas en JavaScript?",
+      "respuestas": [
+        "cadena.toUpperCase()",
+        "cadena.toUpper()",
+        "cadena.convertToUpper()",
+        "cadena.upper()"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué hace el método 'concat()' en JavaScript?",
+      "respuestas": [
+        "Une dos o más arrays",
+        "Devuelve la longitud de un array",
+        "Elimina un elemento del array",
+        "Ordena un array"
+      ],
+      "correcta": 0
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+    "preguntas": [
+        {
+            "pregunta": "¿Qué tipo de estructura de datos es una tupla en Python?",
+            "respuestas": [
+                "Inmutable",
+                "Mutable",
+                "Depende de su contenido",
+                "No existe en Python"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes estructuras de control existe en Python?",
+            "respuestas": [
+                "if",
+                "Todas las anteriores",
+                "while",
+                "for"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué tipo de estructura de datos es una tupla en Python?",
+            "respuestas": [
+                "Mutable",
+                "No existe en Python",
+                "Depende de su contenido",
+                "Inmutable"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes estructuras de control existe en Python?",
+            "respuestas": [
+                "Todas las anteriores",
+                "while",
+                "if",
+                "for"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Qué tipo de estructura de datos es una tupla en Python?",
+            "respuestas": [
+                "No existe en Python",
+                "Depende de su contenido",
+                "Inmutable",
+                "Mutable"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes estructuras de control existe en Python?",
+            "respuestas": [
+                "while",
+                "for",
+                "if",
+                "Todas las anteriores"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Qué tipo de estructura de datos es una tupla en Python?",
+            "respuestas": [
+                "Mutable",
+                "Depende de su contenido",
+                "Inmutable",
+                "No existe en Python"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes estructuras de control existe en Python?",
+            "respuestas": [
+                "for",
+                "if",
+                "Todas las anteriores",
+                "while"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué tipo de estructura de datos es una tupla en Python?",
+            "respuestas": [
+                "Depende de su contenido",
+                "No existe en Python",
+                "Inmutable",
+                "Mutable"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes estructuras de control existe en Python?",
+            "respuestas": [
+                "while",
+                "if",
+                "Todas las anteriores",
+                "for"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué tipo de estructura de datos es una tupla en Python?",
+            "respuestas": [
+                "Depende de su contenido",
+                "Inmutable",
+                "No existe en Python",
+                "Mutable"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes estructuras de control existe en Python?",
+            "respuestas": [
+                "while",
+                "Todas las anteriores",
+                "for",
+                "if"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué tipo de estructura de datos es una tupla en Python?",
+            "respuestas": [
+                "No existe en Python",
+                "Mutable",
+                "Inmutable",
+                "Depende de su contenido"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes estructuras de control existe en Python?",
+            "respuestas": [
+                "while",
+                "Todas las anteriores",
+                "if",
+                "for"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué tipo de estructura de datos es una tupla en Python?",
+            "respuestas": [
+                "No existe en Python",
+                "Mutable",
+                "Depende de su contenido",
+                "Inmutable"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes estructuras de control existe en Python?",
+            "respuestas": [
+                "Todas las anteriores",
+                "if",
+                "for",
+                "while"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Qué tipo de estructura de datos es una tupla en Python?",
+            "respuestas": [
+                "Inmutable",
+                "Mutable",
+                "No existe en Python",
+                "Depende de su contenido"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes estructuras de control existe en Python?",
+            "respuestas": [
+                "Todas las anteriores",
+                "if",
+                "for",
+                "while"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Qué tipo de estructura de datos es una tupla en Python?",
+            "respuestas": [
+                "Mutable",
+                "No existe en Python",
+                "Depende de su contenido",
+                "Inmutable"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes estructuras de control existe en Python?",
+            "respuestas": [
+                "Todas las anteriores",
+                "if",
+                "for",
+                "while"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Qué tipo de estructura de datos es una tupla en Python?",
+            "respuestas": [
+                "Depende de su contenido",
+                "No existe en Python",
+                "Inmutable",
+                "Mutable"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes estructuras de control existe en Python?",
+            "respuestas": [
+                "if",
+                "for",
+                "Todas las anteriores",
+                "while"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué tipo de estructura de datos es una tupla en Python?",
+            "respuestas": [
+                "No existe en Python",
+                "Inmutable",
+                "Mutable",
+                "Depende de su contenido"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes estructuras de control existe en Python?",
+            "respuestas": [
+                "while",
+                "Todas las anteriores",
+                "for",
+                "if"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué tipo de estructura de datos es una tupla en Python?",
+            "respuestas": [
+                "Mutable",
+                "Inmutable",
+                "Depende de su contenido",
+                "No existe en Python"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes estructuras de control existe en Python?",
+            "respuestas": [
+                "if",
+                "Todas las anteriores",
+                "while",
+                "for"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué tipo de estructura de datos es una tupla en Python?",
+            "respuestas": [
+                "Depende de su contenido",
+                "No existe en Python",
+                "Mutable",
+                "Inmutable"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes estructuras de control existe en Python?",
+            "respuestas": [
+                "while",
+                "for",
+                "if",
+                "Todas las anteriores"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Qué tipo de estructura de datos es una tupla en Python?",
+            "respuestas": [
+                "No existe en Python",
+                "Mutable",
+                "Inmutable",
+                "Depende de su contenido"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes estructuras de control existe en Python?",
+            "respuestas": [
+                "while",
+                "Todas las anteriores",
+                "if",
+                "for"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué tipo de estructura de datos es una tupla en Python?",
+            "respuestas": [
+                "Depende de su contenido",
+                "No existe en Python",
+                "Inmutable",
+                "Mutable"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes estructuras de control existe en Python?",
+            "respuestas": [
+                "if",
+                "Todas las anteriores",
+                "while",
+                "for"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué tipo de estructura de datos es una tupla en Python?",
+            "respuestas": [
+                "Inmutable",
+                "Depende de su contenido",
+                "Mutable",
+                "No existe en Python"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes estructuras de control existe en Python?",
+            "respuestas": [
+                "for",
+                "while",
+                "Todas las anteriores",
+                "if"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué tipo de estructura de datos es una tupla en Python?",
+            "respuestas": [
+                "No existe en Python",
+                "Mutable",
+                "Depende de su contenido",
+                "Inmutable"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes estructuras de control existe en Python?",
+            "respuestas": [
+                "Todas las anteriores",
+                "while",
+                "if",
+                "for"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Qué tipo de estructura de datos es una tupla en Python?",
+            "respuestas": [
+                "Inmutable",
+                "Mutable",
+                "No existe en Python",
+                "Depende de su contenido"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes estructuras de control existe en Python?",
+            "respuestas": [
+                "for",
+                "if",
+                "while",
+                "Todas las anteriores"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Qué tipo de estructura de datos es una tupla en Python?",
+            "respuestas": [
+                "Mutable",
+                "No existe en Python",
+                "Depende de su contenido",
+                "Inmutable"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cuál de las siguientes estructuras de control existe en Python?",
+            "respuestas": [
+                "Todas las anteriores",
+                "while",
+                "for",
+                "if"
+            ],
+            "correcta": 0
+        }
+    ]
+}

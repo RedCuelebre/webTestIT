@@ -1,0 +1,214 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué significa HTML?",
+      "respuestas": [
+        "HyperText Markup Language",
+        "High-Level Text Machine Language",
+        "Hyperlink and Text Management Language",
+        "Home Tool Markup Language"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál es la etiqueta raíz de un documento HTML?",
+      "respuestas": ["<html>", "<head>", "<body>", "<root>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para definir un párrafo en HTML?",
+      "respuestas": ["<p>", "<par>", "<paragraph>", "<text>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para crear un enlace en HTML?",
+      "respuestas": ["<a>", "<link>", "<href>", "<url>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué atributo se utiliza para especificar la URL de destino en un enlace?",
+      "respuestas": ["href", "src", "link", "url"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para insertar una imagen en HTML?",
+      "respuestas": ["<img>", "<image>", "<picture>", "<src>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué atributo se utiliza para especificar la ruta de la imagen en HTML?",
+      "respuestas": ["src", "href", "link", "url"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para crear una lista ordenada en HTML?",
+      "respuestas": ["<ol>", "<ul>", "<li>", "<list>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para crear una lista desordenada en HTML?",
+      "respuestas": ["<ul>", "<ol>", "<li>", "<list>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para definir un elemento de lista en HTML?",
+      "respuestas": ["<li>", "<item>", "<list-item>", "<element>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para crear un encabezado en HTML?",
+      "respuestas": ["<h1>", "<header>", "<heading>", "<title>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál es la etiqueta para el encabezado más grande en HTML?",
+      "respuestas": ["<h1>", "<h6>", "<header>", "<title>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para definir una tabla en HTML?",
+      "respuestas": ["<table>", "<tr>", "<td>", "<tab>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para definir una fila en una tabla HTML?",
+      "respuestas": ["<tr>", "<td>", "<th>", "<row>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para definir una celda de datos en una tabla HTML?",
+      "respuestas": ["<td>", "<tr>", "<th>", "<cell>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para definir una celda de encabezado en una tabla HTML?",
+      "respuestas": ["<th>", "<td>", "<tr>", "<header>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para crear un formulario en HTML?",
+      "respuestas": ["<form>", "<input>", "<button>", "<submit>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para crear un campo de entrada de texto en HTML?",
+      "respuestas": ["<input>", "<text>", "<textarea>", "<field>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué atributo se utiliza para especificar el tipo de entrada en un campo <input>?",
+      "respuestas": ["type", "input-type", "format", "kind"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué valor del atributo 'type' se utiliza para crear un botón en HTML?",
+      "respuestas": ["button", "submit", "reset", "click"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para crear un área de texto multilínea en HTML?",
+      "respuestas": ["<textarea>", "<input>", "<text>", "<multiline>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para crear un botón en HTML?",
+      "respuestas": ["<button>", "<input>", "<submit>", "<click>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para definir un pie de página en HTML?",
+      "respuestas": ["<footer>", "<header>", "<section>", "<bottom>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para definir una sección en HTML?",
+      "respuestas": ["<section>", "<div>", "<article>", "<part>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para definir un artículo en HTML?",
+      "respuestas": ["<article>", "<section>", "<div>", "<content>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para definir una barra de navegación en HTML?",
+      "respuestas": ["<nav>", "<menu>", "<navigation>", "<navbar>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para definir una lista de descripción en HTML?",
+      "respuestas": ["<dl>", "<ul>", "<ol>", "<list>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para definir un término en una lista de descripción en HTML?",
+      "respuestas": ["<dt>", "<dd>", "<term>", "<description>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para definir una descripción en una lista de descripción en HTML?",
+      "respuestas": ["<dd>", "<dt>", "<desc>", "<detail>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para insertar un salto de línea en HTML?",
+      "respuestas": ["<br>", "<lb>", "<break>", "<newline>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para insertar una línea horizontal en HTML?",
+      "respuestas": ["<hr>", "<line>", "<horizontal>", "<hl>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para definir un encabezado de sección en HTML?",
+      "respuestas": ["<header>", "<head>", "<heading>", "<hgroup>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para definir un pie de sección en HTML?",
+      "respuestas": ["<footer>", "<foot>", "<bottom>", "<section-end>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para definir un contenedor genérico en HTML?",
+      "respuestas": ["<div>", "<span>", "<container>", "<box>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para definir un contenedor en línea en HTML?",
+      "respuestas": ["<span>", "<div>", "<inline>", "<container>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para definir un comentario en HTML?",
+      "respuestas": ["<!-- -->", "<comment>", "<!comment>", "<cmt>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para definir un script en HTML?",
+      "respuestas": ["<script>", "<javascript>", "<code>", "<js>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué etiqueta se utiliza para definir un estilo en línea en HTML?",
+      "respuestas": ["<style>", "<css>", "<inline-style>", "<styling>"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué atributo se utiliza para aplicar un estilo en línea en HTML?",
+      "respuestas": ["style", "class", "id", "css"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué atributo se utiliza para definir una clase en HTML?",
+      "respuestas": ["class", "id", "style", "type"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué atributo se utiliza para definir un identificador único en HTML?",
+      "respuestas": ["id", "class", "name", "unique"],
+      "correcta": 0
+    }
+  ]
+}

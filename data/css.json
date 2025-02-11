@@ -1,0 +1,204 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué significa CSS?",
+      "respuestas": [
+        "Cascading Style Sheets",
+        "Computer Style Sheets",
+        "Colorful Style Sheets",
+        "Creative Style Sheets"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Cuál es la sintaxis correcta para referenciar un archivo CSS externo?",
+      "respuestas": [
+        "<link rel='stylesheet' type='text/css' href='styles.css'>",
+        "<style src='styles.css'></style>",
+        "<css>styles.css</css>",
+        "<stylesheet>styles.css</stylesheet>"
+      ],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para cambiar el color del texto en CSS?",
+      "respuestas": ["color", "text-color", "font-color", "background-color"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para cambiar el tamaño de la fuente en CSS?",
+      "respuestas": ["font-size", "text-size", "size", "font-style"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para alinear el texto al centro en CSS?",
+      "respuestas": ["text-align: center", "align: center", "text-center", "center-align"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para agregar un margen en CSS?",
+      "respuestas": ["margin", "padding", "border", "spacing"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para agregar un relleno en CSS?",
+      "respuestas": ["padding", "margin", "border", "spacing"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para cambiar el fondo de un elemento en CSS?",
+      "respuestas": ["background-color", "color", "bgcolor", "background"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para cambiar el tipo de fuente en CSS?",
+      "respuestas": ["font-family", "font-type", "font-style", "text-family"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para hacer que un texto sea negrita en CSS?",
+      "respuestas": ["font-weight: bold", "text-bold", "bold", "font-style: bold"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para subrayar un texto en CSS?",
+      "respuestas": ["text-decoration: underline", "underline", "text-underline", "font-underline"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para cambiar el cursor al pasar sobre un elemento en CSS?",
+      "respuestas": ["cursor", "pointer", "hover", "mouse"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para redondear las esquinas de un elemento en CSS?",
+      "respuestas": ["border-radius", "corner-radius", "round-corner", "border-round"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para agregar sombra a un elemento en CSS?",
+      "respuestas": ["box-shadow", "shadow", "text-shadow", "element-shadow"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para ocultar un elemento en CSS?",
+      "respuestas": ["display: none", "visibility: hidden", "hidden", "opacity: 0"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para cambiar la opacidad de un elemento en CSS?",
+      "respuestas": ["opacity", "transparency", "alpha", "visibility"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para cambiar el tamaño de un elemento en CSS?",
+      "respuestas": ["width y height", "size", "dimension", "scale"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para centrar un elemento horizontalmente en CSS?",
+      "respuestas": ["margin: 0 auto", "align: center", "text-align: center", "center"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para cambiar el orden de los elementos en un contenedor flexible (flexbox)?",
+      "respuestas": ["order", "flex-order", "sort", "flex-sort"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para definir la dirección de los elementos en un contenedor flexible (flexbox)?",
+      "respuestas": ["flex-direction", "direction", "flex-flow", "flex-orientation"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para alinear los elementos en el eje transversal en un contenedor flexible (flexbox)?",
+      "respuestas": ["align-items", "justify-content", "align-content", "flex-align"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para alinear los elementos en el eje principal en un contenedor flexible (flexbox)?",
+      "respuestas": ["justify-content", "align-items", "align-content", "flex-justify"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para permitir que los elementos se ajusten en múltiples líneas en un contenedor flexible (flexbox)?",
+      "respuestas": ["flex-wrap", "wrap", "flex-flow", "flex-line"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para definir el tamaño inicial de un elemento flexible en CSS?",
+      "respuestas": ["flex-basis", "flex-size", "flex-initial", "flex-start"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para definir cómo un elemento flexible crece en relación con otros elementos en CSS?",
+      "respuestas": ["flex-grow", "grow", "flex-expand", "flex-scale"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para definir cómo un elemento flexible se reduce en relación con otros elementos en CSS?",
+      "respuestas": ["flex-shrink", "shrink", "flex-reduce", "flex-compress"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para crear una cuadrícula en CSS?",
+      "respuestas": ["display: grid", "grid", "display: flex", "grid-container"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para definir el tamaño de las columnas en una cuadrícula en CSS?",
+      "respuestas": ["grid-template-columns", "grid-columns", "columns", "grid-size"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para definir el tamaño de las filas en una cuadrícula en CSS?",
+      "respuestas": ["grid-template-rows", "grid-rows", "rows", "grid-size"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para definir el espacio entre las celdas de una cuadrícula en CSS?",
+      "respuestas": ["gap", "grid-gap", "spacing", "grid-spacing"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para posicionar un elemento en una cuadrícula en CSS?",
+      "respuestas": ["grid-column y grid-row", "position", "grid-position", "place"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para definir la alineación de los elementos en una cuadrícula en CSS?",
+      "respuestas": ["justify-items y align-items", "align", "justify", "grid-align"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para definir la alineación del contenido en una cuadrícula en CSS?",
+      "respuestas": ["justify-content y align-content", "align", "justify", "grid-align"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para crear una transición en CSS?",
+      "respuestas": ["transition", "transform", "animation", "transit"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para crear una animación en CSS?",
+      "respuestas": ["animation", "transition", "transform", "animate"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para rotar un elemento en CSS?",
+      "respuestas": ["transform: rotate", "rotate", "transform: spin", "spin"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para escalar un elemento en CSS?",
+      "respuestas": ["transform: scale", "scale", "transform: resize", "resize"],
+      "correcta": 0
+    },
+    {
+      "pregunta": "¿Qué propiedad se utiliza para mover un elemento en CSS?",
+      "respuestas": ["transform: translate", "move", "transform: position", "position"],
+      "correcta": 0
+    }
+  ]
+}

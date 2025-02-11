@@ -1,0 +1,404 @@
+{
+    "preguntas": [
+        {
+            "pregunta": "¿Qué directiva en Vue.js permite iterar sobre una lista de elementos?",
+            "respuestas": [
+                "v-bind",
+                "v-for",
+                "v-model",
+                "v-if"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál es la función de la propiedad 'computed' en Vue?",
+            "respuestas": [
+                "Manipular el DOM",
+                "Definir variables reactivas",
+                "Definir estilos",
+                "Crear propiedades derivadas"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Qué directiva en Vue.js permite iterar sobre una lista de elementos?",
+            "respuestas": [
+                "v-if",
+                "v-bind",
+                "v-model",
+                "v-for"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cuál es la función de la propiedad 'computed' en Vue?",
+            "respuestas": [
+                "Crear propiedades derivadas",
+                "Definir variables reactivas",
+                "Definir estilos",
+                "Manipular el DOM"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Qué directiva en Vue.js permite iterar sobre una lista de elementos?",
+            "respuestas": [
+                "v-model",
+                "v-for",
+                "v-bind",
+                "v-if"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál es la función de la propiedad 'computed' en Vue?",
+            "respuestas": [
+                "Definir estilos",
+                "Crear propiedades derivadas",
+                "Manipular el DOM",
+                "Definir variables reactivas"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué directiva en Vue.js permite iterar sobre una lista de elementos?",
+            "respuestas": [
+                "v-for",
+                "v-bind",
+                "v-if",
+                "v-model"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cuál es la función de la propiedad 'computed' en Vue?",
+            "respuestas": [
+                "Definir variables reactivas",
+                "Manipular el DOM",
+                "Definir estilos",
+                "Crear propiedades derivadas"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Qué directiva en Vue.js permite iterar sobre una lista de elementos?",
+            "respuestas": [
+                "v-model",
+                "v-if",
+                "v-bind",
+                "v-for"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cuál es la función de la propiedad 'computed' en Vue?",
+            "respuestas": [
+                "Definir variables reactivas",
+                "Manipular el DOM",
+                "Crear propiedades derivadas",
+                "Definir estilos"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué directiva en Vue.js permite iterar sobre una lista de elementos?",
+            "respuestas": [
+                "v-for",
+                "v-if",
+                "v-model",
+                "v-bind"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cuál es la función de la propiedad 'computed' en Vue?",
+            "respuestas": [
+                "Crear propiedades derivadas",
+                "Definir variables reactivas",
+                "Manipular el DOM",
+                "Definir estilos"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Qué directiva en Vue.js permite iterar sobre una lista de elementos?",
+            "respuestas": [
+                "v-bind",
+                "v-if",
+                "v-for",
+                "v-model"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál es la función de la propiedad 'computed' en Vue?",
+            "respuestas": [
+                "Manipular el DOM",
+                "Definir estilos",
+                "Crear propiedades derivadas",
+                "Definir variables reactivas"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué directiva en Vue.js permite iterar sobre una lista de elementos?",
+            "respuestas": [
+                "v-model",
+                "v-for",
+                "v-bind",
+                "v-if"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál es la función de la propiedad 'computed' en Vue?",
+            "respuestas": [
+                "Crear propiedades derivadas",
+                "Definir variables reactivas",
+                "Definir estilos",
+                "Manipular el DOM"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Qué directiva en Vue.js permite iterar sobre una lista de elementos?",
+            "respuestas": [
+                "v-for",
+                "v-model",
+                "v-bind",
+                "v-if"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cuál es la función de la propiedad 'computed' en Vue?",
+            "respuestas": [
+                "Manipular el DOM",
+                "Crear propiedades derivadas",
+                "Definir estilos",
+                "Definir variables reactivas"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué directiva en Vue.js permite iterar sobre una lista de elementos?",
+            "respuestas": [
+                "v-bind",
+                "v-if",
+                "v-model",
+                "v-for"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cuál es la función de la propiedad 'computed' en Vue?",
+            "respuestas": [
+                "Definir variables reactivas",
+                "Definir estilos",
+                "Manipular el DOM",
+                "Crear propiedades derivadas"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Qué directiva en Vue.js permite iterar sobre una lista de elementos?",
+            "respuestas": [
+                "v-model",
+                "v-bind",
+                "v-if",
+                "v-for"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cuál es la función de la propiedad 'computed' en Vue?",
+            "respuestas": [
+                "Definir estilos",
+                "Definir variables reactivas",
+                "Crear propiedades derivadas",
+                "Manipular el DOM"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué directiva en Vue.js permite iterar sobre una lista de elementos?",
+            "respuestas": [
+                "v-bind",
+                "v-model",
+                "v-for",
+                "v-if"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál es la función de la propiedad 'computed' en Vue?",
+            "respuestas": [
+                "Crear propiedades derivadas",
+                "Manipular el DOM",
+                "Definir estilos",
+                "Definir variables reactivas"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Qué directiva en Vue.js permite iterar sobre una lista de elementos?",
+            "respuestas": [
+                "v-bind",
+                "v-model",
+                "v-for",
+                "v-if"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál es la función de la propiedad 'computed' en Vue?",
+            "respuestas": [
+                "Crear propiedades derivadas",
+                "Definir variables reactivas",
+                "Manipular el DOM",
+                "Definir estilos"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Qué directiva en Vue.js permite iterar sobre una lista de elementos?",
+            "respuestas": [
+                "v-for",
+                "v-bind",
+                "v-if",
+                "v-model"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cuál es la función de la propiedad 'computed' en Vue?",
+            "respuestas": [
+                "Crear propiedades derivadas",
+                "Manipular el DOM",
+                "Definir variables reactivas",
+                "Definir estilos"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Qué directiva en Vue.js permite iterar sobre una lista de elementos?",
+            "respuestas": [
+                "v-bind",
+                "v-if",
+                "v-for",
+                "v-model"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál es la función de la propiedad 'computed' en Vue?",
+            "respuestas": [
+                "Manipular el DOM",
+                "Crear propiedades derivadas",
+                "Definir estilos",
+                "Definir variables reactivas"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué directiva en Vue.js permite iterar sobre una lista de elementos?",
+            "respuestas": [
+                "v-model",
+                "v-if",
+                "v-bind",
+                "v-for"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cuál es la función de la propiedad 'computed' en Vue?",
+            "respuestas": [
+                "Definir variables reactivas",
+                "Manipular el DOM",
+                "Definir estilos",
+                "Crear propiedades derivadas"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Qué directiva en Vue.js permite iterar sobre una lista de elementos?",
+            "respuestas": [
+                "v-for",
+                "v-bind",
+                "v-model",
+                "v-if"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cuál es la función de la propiedad 'computed' en Vue?",
+            "respuestas": [
+                "Definir estilos",
+                "Manipular el DOM",
+                "Crear propiedades derivadas",
+                "Definir variables reactivas"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué directiva en Vue.js permite iterar sobre una lista de elementos?",
+            "respuestas": [
+                "v-model",
+                "v-if",
+                "v-bind",
+                "v-for"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cuál es la función de la propiedad 'computed' en Vue?",
+            "respuestas": [
+                "Definir variables reactivas",
+                "Definir estilos",
+                "Crear propiedades derivadas",
+                "Manipular el DOM"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué directiva en Vue.js permite iterar sobre una lista de elementos?",
+            "respuestas": [
+                "v-bind",
+                "v-for",
+                "v-model",
+                "v-if"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál es la función de la propiedad 'computed' en Vue?",
+            "respuestas": [
+                "Definir variables reactivas",
+                "Manipular el DOM",
+                "Crear propiedades derivadas",
+                "Definir estilos"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué directiva en Vue.js permite iterar sobre una lista de elementos?",
+            "respuestas": [
+                "v-bind",
+                "v-if",
+                "v-for",
+                "v-model"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál es la función de la propiedad 'computed' en Vue?",
+            "respuestas": [
+                "Definir estilos",
+                "Manipular el DOM",
+                "Crear propiedades derivadas",
+                "Definir variables reactivas"
+            ],
+            "correcta": 2
+        }
+    ]
+}

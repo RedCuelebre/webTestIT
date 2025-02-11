@@ -1,0 +1,103 @@
+/* Variables globales */
+:root {
+    --primary-color: #4CAF50;
+    --secondary-color: #f4f4f9;
+    --text-color: #333;
+    --button-bg: #4CAF50;
+    --button-bg-disabled: #ccc;
+    --card-bg: #fff;
+    --font-size-base: 16px;
+    --padding-base: 20px;
+    --border-radius: 8px;
+    --box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Resetear márgenes y padding */
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: var(--secondary-color);
+    color: var(--text-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    width: 90%;
+    max-width: 600px;
+  }
+  
+  .card {
+    background-color: var(--card-bg);
+    padding: var(--padding-base);
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+    margin-bottom: 20px;
+  }
+  
+  .card h3 {
+    margin-top: 0;
+    font-size: 1.25em;
+  }
+  
+  .question-number {
+    font-size: 0.875em;
+    color: gray;
+  }
+  
+  .answers {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .answers li {
+    margin-bottom: 10px;
+  }
+  
+  .answers input {
+    margin-right: 10px;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  .button {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: var(--font-size-base);
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:disabled {
+    background-color: var(--button-bg-disabled);
+  }
+  
+  .results {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  @media (max-width: 768px) {
+    .container {
+      width: 100%;
+      padding: 10px;
+    }
+    .button {
+      font-size: 1em;
+      padding: 12px 24px;
+    }
+  }
+  

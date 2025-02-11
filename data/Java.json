@@ -1,0 +1,404 @@
+{
+    "preguntas": [
+        {
+            "pregunta": "¿Qué palabra clave se usa para heredar una clase en Java?",
+            "respuestas": [
+                "super",
+                "parent",
+                "extend",
+                "inherit"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes modificadores de acceso hace que una variable sea accesible solo dentro de la misma clase?",
+            "respuestas": [
+                "default",
+                "public",
+                "private",
+                "protected"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué palabra clave se usa para heredar una clase en Java?",
+            "respuestas": [
+                "inherit",
+                "super",
+                "extend",
+                "parent"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes modificadores de acceso hace que una variable sea accesible solo dentro de la misma clase?",
+            "respuestas": [
+                "public",
+                "protected",
+                "private",
+                "default"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué palabra clave se usa para heredar una clase en Java?",
+            "respuestas": [
+                "extend",
+                "parent",
+                "super",
+                "inherit"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes modificadores de acceso hace que una variable sea accesible solo dentro de la misma clase?",
+            "respuestas": [
+                "protected",
+                "private",
+                "public",
+                "default"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué palabra clave se usa para heredar una clase en Java?",
+            "respuestas": [
+                "inherit",
+                "extend",
+                "parent",
+                "super"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes modificadores de acceso hace que una variable sea accesible solo dentro de la misma clase?",
+            "respuestas": [
+                "default",
+                "private",
+                "protected",
+                "public"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué palabra clave se usa para heredar una clase en Java?",
+            "respuestas": [
+                "extend",
+                "inherit",
+                "parent",
+                "super"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes modificadores de acceso hace que una variable sea accesible solo dentro de la misma clase?",
+            "respuestas": [
+                "default",
+                "private",
+                "protected",
+                "public"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué palabra clave se usa para heredar una clase en Java?",
+            "respuestas": [
+                "inherit",
+                "super",
+                "extend",
+                "parent"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes modificadores de acceso hace que una variable sea accesible solo dentro de la misma clase?",
+            "respuestas": [
+                "default",
+                "protected",
+                "public",
+                "private"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Qué palabra clave se usa para heredar una clase en Java?",
+            "respuestas": [
+                "super",
+                "parent",
+                "extend",
+                "inherit"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes modificadores de acceso hace que una variable sea accesible solo dentro de la misma clase?",
+            "respuestas": [
+                "public",
+                "private",
+                "protected",
+                "default"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué palabra clave se usa para heredar una clase en Java?",
+            "respuestas": [
+                "super",
+                "parent",
+                "extend",
+                "inherit"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes modificadores de acceso hace que una variable sea accesible solo dentro de la misma clase?",
+            "respuestas": [
+                "default",
+                "protected",
+                "public",
+                "private"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Qué palabra clave se usa para heredar una clase en Java?",
+            "respuestas": [
+                "inherit",
+                "parent",
+                "extend",
+                "super"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes modificadores de acceso hace que una variable sea accesible solo dentro de la misma clase?",
+            "respuestas": [
+                "private",
+                "protected",
+                "default",
+                "public"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Qué palabra clave se usa para heredar una clase en Java?",
+            "respuestas": [
+                "parent",
+                "super",
+                "inherit",
+                "extend"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes modificadores de acceso hace que una variable sea accesible solo dentro de la misma clase?",
+            "respuestas": [
+                "default",
+                "private",
+                "public",
+                "protected"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué palabra clave se usa para heredar una clase en Java?",
+            "respuestas": [
+                "inherit",
+                "parent",
+                "super",
+                "extend"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes modificadores de acceso hace que una variable sea accesible solo dentro de la misma clase?",
+            "respuestas": [
+                "protected",
+                "default",
+                "public",
+                "private"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Qué palabra clave se usa para heredar una clase en Java?",
+            "respuestas": [
+                "parent",
+                "inherit",
+                "extend",
+                "super"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes modificadores de acceso hace que una variable sea accesible solo dentro de la misma clase?",
+            "respuestas": [
+                "default",
+                "public",
+                "private",
+                "protected"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué palabra clave se usa para heredar una clase en Java?",
+            "respuestas": [
+                "parent",
+                "inherit",
+                "extend",
+                "super"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes modificadores de acceso hace que una variable sea accesible solo dentro de la misma clase?",
+            "respuestas": [
+                "public",
+                "private",
+                "protected",
+                "default"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué palabra clave se usa para heredar una clase en Java?",
+            "respuestas": [
+                "parent",
+                "inherit",
+                "extend",
+                "super"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes modificadores de acceso hace que una variable sea accesible solo dentro de la misma clase?",
+            "respuestas": [
+                "private",
+                "public",
+                "protected",
+                "default"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Qué palabra clave se usa para heredar una clase en Java?",
+            "respuestas": [
+                "inherit",
+                "extend",
+                "super",
+                "parent"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes modificadores de acceso hace que una variable sea accesible solo dentro de la misma clase?",
+            "respuestas": [
+                "public",
+                "default",
+                "private",
+                "protected"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué palabra clave se usa para heredar una clase en Java?",
+            "respuestas": [
+                "inherit",
+                "super",
+                "parent",
+                "extend"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes modificadores de acceso hace que una variable sea accesible solo dentro de la misma clase?",
+            "respuestas": [
+                "private",
+                "public",
+                "default",
+                "protected"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Qué palabra clave se usa para heredar una clase en Java?",
+            "respuestas": [
+                "extend",
+                "parent",
+                "inherit",
+                "super"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes modificadores de acceso hace que una variable sea accesible solo dentro de la misma clase?",
+            "respuestas": [
+                "protected",
+                "default",
+                "private",
+                "public"
+            ],
+            "correcta": 2
+        },
+        {
+            "pregunta": "¿Qué palabra clave se usa para heredar una clase en Java?",
+            "respuestas": [
+                "super",
+                "extend",
+                "parent",
+                "inherit"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes modificadores de acceso hace que una variable sea accesible solo dentro de la misma clase?",
+            "respuestas": [
+                "private",
+                "public",
+                "default",
+                "protected"
+            ],
+            "correcta": 0
+        },
+        {
+            "pregunta": "¿Qué palabra clave se usa para heredar una clase en Java?",
+            "respuestas": [
+                "super",
+                "extend",
+                "parent",
+                "inherit"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes modificadores de acceso hace que una variable sea accesible solo dentro de la misma clase?",
+            "respuestas": [
+                "protected",
+                "private",
+                "public",
+                "default"
+            ],
+            "correcta": 1
+        },
+        {
+            "pregunta": "¿Qué palabra clave se usa para heredar una clase en Java?",
+            "respuestas": [
+                "super",
+                "inherit",
+                "parent",
+                "extend"
+            ],
+            "correcta": 3
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes modificadores de acceso hace que una variable sea accesible solo dentro de la misma clase?",
+            "respuestas": [
+                "public",
+                "private",
+                "default",
+                "protected"
+            ],
+            "correcta": 1
+        }
+    ]
+}
