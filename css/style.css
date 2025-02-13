@@ -1,4 +1,4 @@
-/* Variables globales */
+/* Global Variables */
 :root {
     --primary-color: #4CAF50;
     --secondary-color: #f4f4f9;
@@ -12,7 +12,7 @@
     --box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   }
   
-  /* Resetear márgenes y padding */
+  /* Reset Margin and Padding */
   * {
     margin: 0;
     padding: 0;
